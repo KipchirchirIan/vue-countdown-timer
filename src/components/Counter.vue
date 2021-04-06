@@ -9,18 +9,16 @@
 
 <script>
 export default {
-  name: 'Counter',
-  data () {
+  name: "Counter",
+  data() {
     return {
       days: 0,
       hours: 0,
       minutes: 0,
-      seconds: 0
-    }
-  }
-}
+      seconds: 0,
+    };
+  },
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
